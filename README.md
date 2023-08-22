@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nehagholap10
 - 👀 I’m interested in coding and data science
 - 🌱 I’m currently pursuing BSc.IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 
 <!---
 nehagholap10/nehagholap10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
